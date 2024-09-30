@@ -1,0 +1,4 @@
+/home/rudgh99/Desktop/SequenceMatcher/build/CMakeFiles/SequenceMatcher.dir
+/home/rudgh99/Desktop/SequenceMatcher/build/CMakeFiles/SequenceMatcherExample.dir
+/home/rudgh99/Desktop/SequenceMatcher/build/CMakeFiles/edit_cache.dir
+/home/rudgh99/Desktop/SequenceMatcher/build/CMakeFiles/rebuild_cache.dir
